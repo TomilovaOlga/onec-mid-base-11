@@ -10,7 +10,7 @@
   <name>ДЗ13_7_Должности</name>
   <synonym>
     <key>ru</key>
-    <value>Должности (ДЗ13_7)</value>
+    <value>Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ДЗ13_7_Должности.StandardAttribute.Code</inputByString>
